@@ -1,6 +1,7 @@
 <div align="left">
   <h2>👋 Hi, I'm Joep!</h2>
   <p>Exploring the infinite loop of technology, programming, and cybersecurity. I build, break, and occasionally fix things. Currently working on a private <b>React</b> + <b>FastAPI</b> project 🤫</p>
+  <p>Also learning C and other low level concepts just for fun!</p>
 </div>
 
 <h3 align="left">🚀 Skills & Technologies</h3>
