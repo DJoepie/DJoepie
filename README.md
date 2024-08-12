@@ -1,6 +1,6 @@
 <div align="left">
   <h2>👋 Hi, I'm Joep!</h2>
-  <p>Exploring the infinite loop of technology, programming, and cybersecurity. I build, break, and occasionally fix things. Currently working on a private <b>React</b> + <b>FastAPI</b> project 🤫 I'm always keeping an eye out on the latest AI tech (it's going so fast ⚡) </p>
+  <p>Exploring the infinite loop of technology, programming, and cybersecurity. I build, break, and occasionally fix things. Currently working on a private <b>React</b> + <b>FastAPI</b> project 🤫</p>
 </div>
 
 <h3 align="left">🚀 Skills & Technologies</h3>
@@ -29,21 +29,3 @@
   <br>
   <code><img width="30" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity (building worlds one bug at a time)"/></code>
 </p>
-
-<div align="left">
-  <h3>💡 About Me</h3>
-  <p>Curiosity might have killed the cat, but it also propelled me into the vast universe of tech. Currently delving into my side project(s), ever ready to embark on collaborative endeavors or dispense nuggets of wisdom. Ping me if you're up for a tech tête-à-tête or in quest of a co-conspirator in your next digital adventure!</p>
-</div>
-
----
-
-<div align="left">
-  <small>✨ This bio was crafted with a blend of personal creativity and a dash of AI assistance. Embracing the future, one line of markdown at a time. ✨</small>
-</div>
-
-<br><br>
-
-<div align="left">
-  <p><b>*</b> The use of emojis and AI in this bio is <i>somewhat</i> ironic.</p>
-  <p><b>**</b> I'm always open to chat, collaborate, or if you're just looking for a conversation. Don't hesitate to reach out!</p></p>
-</div>
